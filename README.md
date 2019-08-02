@@ -141,10 +141,3 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </tbody>
 </table>
 
-
-## Technology Used
-
-<img src="https://images//python-logo.png" width="240" height="50"/>
-
-<img src="https://images/tableau-logo.png" width="240" height="60"/>
-
