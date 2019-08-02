@@ -15,15 +15,25 @@ Python and Tableau are utilized to create visualizations to identify trends and 
 * Click [here](https://public.tableau.com/profile/sam.wimberly#!/vizhome/citibike-analysis_15645924526980/Maps) to view complted dashboard
 
 
-## 2018 Utilization
+## Utilization
 
 ![alt text](images/ridership:membership-growth.png)
 
 There were 17,593,918 rides taken on Citi Bikes in New York City in 2018. Riders are much more likely to take a Citi Bike during the warmer, summer months than they are during the colder, winter months, as is displayed in the dashboard above. Short-term customer passes (3-day or 24 hour) follow the same overall seasonal trend, but annaul membership continues to trend in a positive direction regardless of season.
 
-![alt text]()
 
-![alt text]()
+## Peak Hours
+
+![alt text](images/peak-hours-by-season)
+
+Upon closer investigation, we find that peak hours follow the same trend regardless of season. Citi Bike usage peaks at 8am and then again at 6pm, suggesting that Citi Bikes are utilized by day-time employees. Citi Bikes are utilized more often during summer and fall when outdoor temperatures are most comfortable. It is somewhat surprsing that city bike use during the spring is not as popular as summer or fall. This could be due to cool temperatures carrying into the spring. 
+
+
+## Station Popularity
+
+![alt text](images/top-bottom-stations)
+
+![alt text](images/maps)
 
 ## Data Source
 ![alt text](images/citibikedata.png)
