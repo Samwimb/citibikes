@@ -37,8 +37,21 @@ Upon closer investigation, we find that peak hours follow the same trend regardl
 
 Looking exclusively at Jersey City data, we see that the most popular stations are located near metro stations (go to dashboard for interactive map). Four out of the five most popular Citi Bike start and end Stations are located at popular subway entrances. Citi Bike's seem integrally tied to public transportation access. In general, people that use Citi Bike's also seem to utilize other forms of public transportation. What can Citi Bike and New York City do to leverage this knowledge and improve the city's overall infrastructure?
 
+
+## Utilizations by Gender and Age
+
+![alt text](images/age-gender.png)
+
+Overall, Males utilize Citi Bike's much more often than females or gender unknown. However, over the last year the percentage of female riders has grown from 18.47% to 21.79%, indicating that gender outreach could have had some influence. With more time, a detailed investigation of days of the week and gender ridership might provide further insight into the discrepancy between male and female riders. Does the percentage of female riders spike on the weekend? If so, what would cause this? Does fashion/comfort play a role? Above visualizations imply that Citi Bike users are commuting and not biking for pleasure or exercise (as idicated by the most popular start and end stations). Why does it seem like women are not using Citi Bikes as part of their commute?
+
+
+## Bike Condition
+
+![alt text](images/bike-maintenance.png)
+
+The above visulization shows total trip length and average trip length for each Citi Bike. Over the last year, we can identify which bikes were used the most and which bikes were used the least. This may help identify which bikes will need maintenance soon, but without a history of each bike's maintenance schedule, we can't know if some of these bike's have already been repaired.
+
 ## Data Source
-![alt text](images/citibikedata.png)
 
 This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
@@ -128,33 +141,6 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </tbody>
 </table>
 
-* Limitation
-There were 7% user did not provide gender information and most of them (14%) are weekend users so we will not be able to tell if female are more willing to ride
-on the weekend then they do on weekdays, but we may still determine that male user are the dominant customer at all time
-
-![alt text]()
-
-
-## Findings 
-
-
-### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend
-
-![alt text]() ![alt text]()
-
-### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
-
-![alt text]()
-
-### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
-
-![alt text]()
-
-## Map visualization for city officials
-
-* More and more people choose to live in Jersey City and work in Manhathan
-
-![alt text]()
 
 ## Technology Used
 
