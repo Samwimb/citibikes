@@ -31,9 +31,11 @@ Upon closer investigation, we find that peak hours follow the same trend regardl
 
 ## Station Popularity
 
+![alt text](images/maps.png)
+
 ![alt text](images/top-bottom-stations.png)
 
-![alt text](images/maps.png)
+Looking exclusively at Jersey City data, we see that the most popular stations are located near metro stations (go to dashboard for interactive map). Four out of the five most popular Citi Bike start and end Stations are located at popular subway entrances. Citi Bike's seem integrally tied to public transportation access. In general, people that use Citi Bike's also seem to utilize other forms of public transportation. What can Citi Bike and New York City do to leverage this knowledge and improve the city's overall infrastructure?
 
 ## Data Source
 ![alt text](images/citibikedata.png)
