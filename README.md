@@ -1,5 +1,5 @@
 
-# Citi-Bike-Analytics
+# Citi Bike Analysis
 
 ![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
 
