@@ -24,16 +24,16 @@ There were 17,593,918 rides taken on Citi Bikes in New York City in 2018. Riders
 
 ## Peak Hours
 
-![alt text](images/peak-hours-by-season)
+![alt text](images/peak-hours-by-season.png)
 
 Upon closer investigation, we find that peak hours follow the same trend regardless of season. Citi Bike usage peaks at 8am and then again at 6pm, suggesting that Citi Bikes are utilized by day-time employees. Citi Bikes are utilized more often during summer and fall when outdoor temperatures are most comfortable. It is somewhat surprsing that city bike use during the spring is not as popular as summer or fall. This could be due to cool temperatures carrying into the spring. 
 
 
 ## Station Popularity
 
-![alt text](images/top-bottom-stations)
+![alt text](images/top-bottom-stations.png)
 
-![alt text](images/maps)
+![alt text](images/maps.png)
 
 ## Data Source
 ![alt text](images/citibikedata.png)
