@@ -4,9 +4,12 @@
 ![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
 
 <p align="center">
-  <a href="#data-source">Data Source</a> •
-  <a href="#findings">Findings</a> •
-  <a href="#technology-Used">Technology Used</a>
+  <a href="#utilization">Utilzation</a> •
+  <a href="#peak-hors">Peak Hours</a> •
+  <a href="#station-popularity">Station Popularity</a> •
+  <a href="#utilizations-by-gender-and-age">Utilizations by Gender and Age</a> •
+  <a href="#bike-condition">Bike Condition</a> •
+  <a href="#data-source">Data Source</a>
 </p>
 
 Analysis of the New York Citi Bike Program, which oversees the largest bike sharing program in the United States.
